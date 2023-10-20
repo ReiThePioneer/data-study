@@ -1,0 +1,10 @@
+# gitignore
+.DS_Store
+Icon
+*.ipynb_checkpoints
+*.pdf
+*.csv
+mission-week1.ipynb
+mission-week2.ipynb
+mission-week3.ipynb
+mission-week4.ipynb
