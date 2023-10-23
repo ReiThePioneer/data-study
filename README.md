@@ -16,44 +16,37 @@ Naver Connect Foundation Boost Coaching class 13<br>
 - head(), tail()
 - info()
 - columns
-- dtypes
-
+- dtypes<br><br/>
 - isnull().sum()
 - plot(), plot.bar(), plot.barh()
 - reset_index
 - sort_values()
 - NaN
-- drop()
-
+- drop()<br><br/>
 - mean
 - median
 - max
 - min
 - count
-- describe
-
+- describe<br><br/>
 - unique(), nunique()
 - value_counts()
-- barh(), pie chart()
-
+- barh(), pie chart()<br><br/>
 - countplot
 - seaborn
 - value_counts
 - df.plot.bar
-- df.plot.barh
-
+- df.plot.barh<br><br/>
 - ==
 - loc
 - boolean indexing
 - True, False
-- &, |
-
+- &, |<br><br/>
 - str.contains
 - index
 - str.endwith
 - len
-- scatter plot
-
+- scatter plot<br><br/>
 - folium
 - Map
 - Marker
