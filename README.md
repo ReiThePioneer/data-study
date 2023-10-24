@@ -76,3 +76,18 @@ Naver Connect Foundation Boost Coaching class 13<br>
 - compute aggregation
   - df.groupby()
   - df.pivot_table()
+
+- histogam
+  - df.hist()
+  - dfiloc[]
+
+- frequency bar graph
+  - seaborn
+  - countplot
+  - x, y, data, hue
+
+- numerical vs. categorical
+  - sns.barplot()
+  - ci
+  - sns.lineplot()
+  - sns.pointplot()
